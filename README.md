@@ -1,13 +1,16 @@
-# Hi there! I'm Miqdad Asyraf Rizqullah 👋
+<div align="center">
+  <h1>Hi there! 👋</h1>
+  <h2>I'm Miqdad Asyraf Rizqullah</h2>
+</div>
 
 <!-- Dynamic Typing Header (Typing SVG) -->
-<p align="left">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&width=450&lines=UI%2FUX+Designer;Fullstack+Web+Developer;Mobile+App+Developer;AI+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=UI%2FUX+Designer;Fullstack+Web+Developer;Mobile+App+Developer;AI+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Informatics%20Engineering-Universitas%20Halu%20Oleo-blue?style=flat-square&logo=google-scholar&logoColor=white" alt="Education">
   <img src="https://img.shields.io/badge/Based%20In-Kendari%2C%20Indonesia-orange?style=flat-square&logo=google-maps&logoColor=white" alt="Location">
 </p>
@@ -101,6 +104,15 @@ I am an Informatics Engineering student at **Halu Oleo University** who bridges 
   * Deepening skills in Software Engineering, Database Systems, Web Tech, and Machine Learning.
 * 💼 **Freelance UI/UX Designer & Web Developer** (2023 – Present)
   * Collaborating directly with business owners, schools, and local foundations in Kendari to design, build, and deploy production web products.
+
+---
+
+### 🎖️ Key Certifications
+
+* 📜 **Machine Learning Specialization** — *Coursera & DeepLearning.AI* (2024)
+* 📜 **React Web Application Development** — *Dicoding Indonesia* (2023)
+* 📜 **UI/UX Design Fundamentals** — *Coursera & Google* (2023)
+* 📜 **Front-End Web Development Fundamentals** — *Dicoding Indonesia* (2022)
 
 ---
 
