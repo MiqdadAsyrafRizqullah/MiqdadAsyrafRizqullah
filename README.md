@@ -109,10 +109,10 @@ I am an Informatics Engineering student at **Halu Oleo University** who bridges 
 
 ### 🎖️ Key Certifications
 
-* 📜 **Machine Learning Specialization** — *Coursera & DeepLearning.AI* (2024)
-* 📜 **React Web Application Development** — *Dicoding Indonesia* (2023)
-* 📜 **UI/UX Design Fundamentals** — *Coursera & Google* (2023)
-* 📜 **Front-End Web Development Fundamentals** — *Dicoding Indonesia* (2022)
+* 📜 **Machine Learning Specialization** — *Coursera & DeepLearning.AI* (2025)
+* 📜 **React Web Application Development** — *Dicoding Indonesia* (2025)
+* 📜 **UI/UX Design Fundamentals** — *Coursera & Google* (2025)
+* 📜 **Front-End Web Development Fundamentals** — *Dicoding Indonesia* (2025)
 
 ---
 
