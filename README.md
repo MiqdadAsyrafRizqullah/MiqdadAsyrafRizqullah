@@ -100,9 +100,9 @@ I am an Informatics Engineering student at **Halu Oleo University** who bridges 
 
 ### 🎓 Experience & Education
 
-* 🎓 **Halu Oleo University (UHO)** — *B.S. in Informatics Engineering* (2022 – Present)
+* 🎓 **Halu Oleo University (UHO)** — *B.S. in Informatics Engineering* (2024 – Present)
   * Deepening skills in Software Engineering, Database Systems, Web Tech, and Machine Learning.
-* 💼 **Freelance UI/UX Designer & Web Developer** (2023 – Present)
+* 💼 **Freelance UI/UX Designer & Web Developer** (2025 – Present)
   * Collaborating directly with business owners, schools, and local foundations in Kendari to design, build, and deploy production web products.
 
 ---
