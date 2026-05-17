@@ -1,11 +1,11 @@
-# Halo semua! Saya Miqdad Asyraf Rizqullah 👋
+# Hi there! I'm Miqdad Asyraf Rizqullah 👋
 
 <p align="left">
   <img src="https://img.shields.io/badge/Informatics%20Engineering-Universitas%20Halu%20Oleo-blue?style=flat-skin&logo=google-scholar&logoColor=white" alt="Education">
   <img src="https://img.shields.io/badge/Focus-Web%20%26%20Mobile%20Dev%20%7C%20UI%2FUX%20%7C%20AI-orange?style=flat-skin" alt="Focus">
 </p>
 
-Saya adalah mahasiswa Teknik Informatika di **Universitas Halu Oleo** yang berfokus pada pengembangan produk digital yang fungsional, estetik, dan cerdas. Saya menggabungkan keahlian **UI/UX Design**, **Web & Mobile Development**, dan integrasi **Artificial Intelligence** untuk menciptakan solusi digital terbaik.
+I am an Informatics Engineering student at **Universitas Halu Oleo** passionate about crafting functional, beautiful, and intelligent digital products. I combine **UI/UX Design**, **Web & Mobile Development**, and **Artificial Intelligence** integration to deliver high-quality digital solutions.
 
 ---
 
@@ -45,25 +45,25 @@ Saya adalah mahasiswa Teknik Informatika di **Universitas Halu Oleo** yang berfo
 
 ---
 
-### 🚀 Proyek Unggulan Terkini
+### 🚀 Featured Live Projects
 
-*   **[Labirin Children Center Kendari](https://labirinchildrencenter.com/Oke1/frontend/index.html)** - Platform pelayanan kesehatan & PAUD inklusi terintegrasi untuk anak berkebutuhan khusus.
-*   **[Setara Kids School Kendari](https://setarakidsschool.sch.id)** - Platform web sekolah inklusi dan kelompok bermain berbasis kurikulum merdeka dengan manajemen modern.
+*   **[Labirin Children Center Kendari](https://labirinchildrencenter.com/Oke1/frontend/index.html)** - An integrated health service and inclusive preschool platform for children with special needs.
+*   **[Setara Kids School Kendari](https://setarakidsschool.sch.id)** - A modern web platform for inclusive preschool and daycare, featuring interactive class schedules and comprehensive facilities.
 
 ---
 
-### 🎓 Sertifikasi Utama
+### 🎓 Key Certifications
 
 *   **Machine Learning Specialization** — *Coursera & DeepLearning.AI* (2024)
-*   **Belajar Membuat Aplikasi Web dengan React** — *Dicoding Indonesia* (2023)
+*   **React Web Application Development** — *Dicoding Indonesia* (2023)
 *   **UI/UX Design Fundamentals** — *Coursera & Google* (2023)
-*   **Belajar Fundamental Front-End Web Development** — *Dicoding Indonesia* (2022)
+*   **Front-End Web Development Fundamentals** — *Dicoding Indonesia* (2022)
 
 ---
 
-### 📬 Hubungi Saya
+### 📬 Let's Connect!
 
-Mari berkolaborasi atau berdiskusi tentang pengembangan web, mobile, atau AI!
+I'm always open to interesting collaborations, web/mobile development projects, or discussing AI-related technologies.
 
 <p align="left">
   <a href="mailto:miqdadwajo@gmail.com" target="_blank">
@@ -82,12 +82,11 @@ Mari berkolaborasi atau berdiskusi tentang pengembangan web, mobile, atau AI!
 
 ---
 
-### 📊 Statistik & Pencapaian GitHub
+### 📊 GitHub Stats & Achievements
 
 <p align="left">
-  <!-- GitHub Streak Stats (Sangat Stabil) -->
+  <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiqdadAsyrafRizqullah&theme=dark&hide_border=true" alt="GitHub Streak" width="49%">
-  <!-- GitHub Profile Trophy (Menampilkan Piala Berdasarkan Aktivitas Anda) -->
+  <!-- GitHub Profile Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=MiqdadAsyrafRizqullah&theme=darkhub&column=3" alt="GitHub Trophies" width="49%">
 </p>
-
