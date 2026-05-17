@@ -82,9 +82,12 @@ Mari berkolaborasi atau berdiskusi tentang pengembangan web, mobile, atau AI!
 
 ---
 
-### 📊 Statistik GitHub
+### 📊 Statistik & Pencapaian GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiqdadAsyrafRizqullah&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiqdadAsyrafRizqullah&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" width="48%">
+  <!-- GitHub Streak Stats (Sangat Stabil) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiqdadAsyrafRizqullah&theme=dark&hide_border=true" alt="GitHub Streak" width="49%">
+  <!-- GitHub Profile Trophy (Menampilkan Piala Berdasarkan Aktivitas Anda) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=MiqdadAsyrafRizqullah&theme=darkhub&column=3" alt="GitHub Trophies" width="49%">
 </p>
+
