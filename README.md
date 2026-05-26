@@ -137,15 +137,6 @@ I'm always open to interesting collaborations, web/mobile development projects, 
 
 ---
 
-### 📊 GitHub Stats & Streaks
-
-<p align="left">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiqdadAsyrafRizqullah&theme=dark&hide_border=true" alt="GitHub Streak" width="49%">
-  <!-- GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=MiqdadAsyrafRizqullah&theme=darkhub&column=3" alt="GitHub Trophies" width="49%">
-</p>
-
 ---
 
 > *"Design is the body, code is the brain, and AI is the soul of modern technology. I strive to build all three with excellence."* — **Miqdad Asyraf Rizqullah**
