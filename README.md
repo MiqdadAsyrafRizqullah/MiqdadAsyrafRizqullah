@@ -139,5 +139,5 @@ I'm always open to interesting collaborations, web/mobile development projects, 
 
 ---
 
-> *"Design is the body, code is the brain, and AI is the soul of modern technology. I strive to build all three with excellence."*
-> --**Miqdad Asyraf Rizqullah**
+> *"Design is the body, code is the brain, and AI is the soul of modern technology. I strive to build all three with excellence."
+> * **Miqdad Asyraf Rizqullah**
